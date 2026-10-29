@@ -6,9 +6,7 @@ Raw material inventory management is an important part of garment manufacturing 
 
 ## 2. Business Problem
 
-The company's previous inventory system primarily supported basic data recording, document printing, and data exporting. However, it had limitations in providing comprehensive inventory monitoring and managing detailed material information.
-
-This project addresses several challenges:
+The company's previous inventory system primarily supported basic data recording, document printing, and data exporting. However, it had limitations in providing comprehensive inventory monitoring and managing detailed material information. This project addresses several challenges:
 
 - Limited visibility into raw material stock availability.
 - Difficulty monitoring low-stock materials and purchase order statuses.
@@ -28,9 +26,7 @@ This project addresses several challenges:
 
 ## 4. System Scope
 
-The system focuses on internal raw material inventory management within the garment manufacturing environment.
-
-The main operational areas include:
+The system focuses on internal raw material inventory management within the garment manufacturing environment. The main operational areas include:
 
 - Raw material stock management.
 - Supplier and material master data management.
@@ -112,9 +108,7 @@ The application uses the **Model-View-Controller (MVC)** architecture provided b
 - **View:** Presents information through the user interface.
 - **Controller:** Processes user requests and coordinates interactions between models and views.
 
-The database was designed using MySQL with relational structures to manage materials, suppliers, inventory records, transactions, and user information.
-
-System design documentation includes:
+The database was designed using MySQL with relational structures to manage materials, suppliers, inventory records, transactions, and user information. System design documentation includes:
 
 - Use Case Diagrams
 - Class Diagram
@@ -124,9 +118,7 @@ System design documentation includes:
 
 ## 9. System Testing
 
-Functional testing was conducted using the **black-box testing** method to evaluate whether the implemented features worked according to system requirements.
-
-Testing covered major functionalities, including:
+Functional testing was conducted using the **black-box testing** method to evaluate whether the implemented features worked according to system requirements. Testing covered major functionalities, including:
 
 - User authentication and access control.
 - Dashboard and inventory information display.
@@ -154,9 +146,7 @@ The following section presents the main interfaces of the developed web applicat
 
 ## 12. Project Outcomes
 
-The project resulted in the development of a functional web-based inventory management system designed to support garment manufacturing operations.
-
-The implemented application provides:
+The project resulted in the development of a functional web-based inventory management system designed to support garment manufacturing operations. The implemented application provides:
 
 - Centralized raw material inventory records.
 - More structured inventory and transaction management.
