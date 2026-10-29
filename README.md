@@ -134,8 +134,8 @@ The testing results documented in the internship report indicate that the implem
 
 The following section presents the main interfaces of the developed web application.
 
-<img width="512" height="243" alt="image" src="https://github.com/user-attachments/assets/b842713b-f57d-4762-988d-33ae6546101d" />
-<img width="512" height="243" alt="image" src="https://github.com/user-attachments/assets/97ee14e8-33a0-4dd1-8b11-b55e1f7849c1" />
+<img width="1901" height="772" alt="image" src="https://github.com/user-attachments/assets/b4402de9-9d28-43fd-a650-d59a37f80e5b" />
+<img width="1902" height="791" alt="image" src="https://github.com/user-attachments/assets/358401ff-53f5-4a0a-9634-d397dff568f6" />
 
 ## 11. Project Limitations
 
